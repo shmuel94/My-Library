@@ -1,0 +1,304 @@
+{"books":[{
+        "id": 1,
+        "name": "God Woke",
+        "author": "stan lee",
+        "description": "Stan Lee's 'God Woke' is a 2016 graphic novel by former Marvel Comics editor and publisher Stan Lee, using the text of his 1970s epic poem. Comic-book writer Fabian Nicieza created visualizations to match the text, with artwork by his brother Mariano Nicieza and others. It was published by Shatner Singularity, founded by actor and author William Shatner. In addition to the main story, the book also contains the poem by itself, the visualization script, a 16-page background article and a newly written afterword by Lee.",
+        "img": "https://i.ibb.co/Y82kTbz/Stan-Lee-s-God-Woke-hardcover-cover.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+        
+    },
+    {
+        "id": 2,
+        "name": "Amazing Fantastic Incredible: A Marvelous Memoir",
+        "author": "stan lee",
+        "description": "Stan Lee is a man who needs no introduction. The most legendary name in the history of comic books, he has been the leading creative force behind Marvel Comics, and has brought to life—and into the mainstream—some of the world’s best-known heroes and most infamous villains throughout his career. His stories—filled with superheroes struggling with personal hang-ups and bad guys who possessed previously unseen psychological complexity—added wit and subtlety to a field previously locked into flat portrayals of good vs. evil. Lee put the human in superhuman and in doing so, created a new mythology for the twentieth century.",
+        "img": "https://i.ibb.co/Xk3mbxX/61a-L-b-S1c-PL-SX327-BO1-204-203-200.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 3,
+        "name": "Marvel Encyclopedia, New Edition",
+        "author": "stan lee",
+        "description": "This is the book that mankind has been hungering for, says American comic book writer, editor, publisher, and producer, Stan Lee, a book that is-now and forever-a shining beacon of wonder, a titanic tribute to talent unleashed. With this new edition of DKs best-selling Marvel Encyclopedia, keep up with the ever-expanding Marvel Universe. Updated and expanded, find out vital information and secret histories for more than 1,200 Marvel characters-from classics to brand new ones—while getting the lowdown on recent key events, including Civil War 2, Secret Empire, and Infinity Countdown.",
+        "img": "https://i.ibb.co/R4zpJD5/61-t-Bpkh-JRL-SX418-BO1-204-203-200.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 4,
+        "name": "Stan Lee's How to Draw Comics",
+        "author": "stan lee",
+        "description": "In Stan Lee's How to Draw Comics, Stan Lee sets out to teach everything he knows about drawing and comic book characters, The book focuses primarily on action-adventure comics, but will touch upon other genres and styles, such as romance, humor, horror, and the widely influential manga style. From producing concepts and character sketches to laying out the final page of art, the man with no peer—Stan Lee—is the ultimate guide to the world of creating comics.",
+        "img": "https://i.ibb.co/0D4SGJM/61v-ZKQOYJLL-SX405-BO1-204-203-200.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 5,
+        "name": "The Amazing Spider-Man Omnibus Vol. 1",
+        "author": "stan lee",
+        "description": "In 1962, Stan Lee and Steve Ditko gave birth to one of the most enduring icons in American popular media: the one and only Amazing Spider-Man! Turning the concept of a super hero on its head, they imbued the young, guilt-ridden Peter Parker with the fantastic powers of an arachnid and the fantastic pressures of an everyday teenager. The combination was pure magic, and during the course of 40 issues of webslinging, wisecracking wonderment Lee and Ditko built the foundation for 45 years of Spidey spectaculars.",
+        "img": "https://i.ibb.co/zS7zhZB/61-J-Gg-Csct-L-SX336-BO1-204-203-200.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 6,
+        "name": "Stan Lee's Alexa: Stan Lee's Riftworld, Vol. 1: v. 1",
+        "author": "stan lee",
+        "description": "The first volume in an all-new graphic novel series created by the legendary Stan Lee. Alexa Moran is the popular artis of The Vixens, the hit series published by The Fantasy Factory, America's premiere comic book company. But deadlines and adoring fans are soon forgotten when New York city is visited by two 20-fot tal giants, wearing the kind of costumes Alexa would never have expected to see outside of the pagaes of her own comics. It also turns out that she unconsciously opend the dimensional portal that brought them to Earth. And these giants have great plans for her before she outlives her usefulness...",
+        "img": "https://i.ibb.co/MZLXrPx/618-SP3-C93-NL-SX331-BO1-204-203-200.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 7,
+        "name": "Origins of Marvel Comics",
+        "author": "stan lee",
+        "description": "Origins of Marvel Comics is a 1974 collection of Marvel Comics comic book stories, selected and introduced by Marvel writer and editor Stan Lee. The book was published by Fireside Books, an imprint of Simon & Schuster, and was Marvel's first trade paperback collection.The book collected the first story and a more recent story starring five of Marvel's star characters: The Fantastic Four, Spider-Man, Thor, the Hulk and Doctor Strange. Lee wrote an introduction to the collection, and anecdotes introducing each story",
+        "img": "https://i.ibb.co/7jq40TS/Origins-of-Marvel-Comics.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 8,
+        "name": "Silver Surfer: Parable",
+        "author": "stan lee",
+        "description": "Galactus has converted humanity into his followers, and he's leading them to their doom! The planet-devouring demigod's only challenger is the hero he himself trapped on Earth: the Silver Surfer. It's a war for Earth's worship, but how much will be left when it's over? Plus: The Surfer must save his world and ours from the planet-sized peril posed by the Enslavers! With guest appearances by the Hulk, Spider-Man, Wolverine and more!",
+        "img": "https://i.ibb.co/pLmTk8x/41-RW8-An6r-HL-SX323-BO1-204-203-200.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 9,
+        "name": "Mighty Marvel Masterworks: The Avengers Vol. 1",
+        "author": "stan lee",
+        "description": "The stories that built the Marvel Universe, from the brilliant minds of legendary creators — now available in an accessible new format the whole family can enjoy! Gathering together to face the evil Loki, solo heroes Iron Man, the Hulk, Thor, Ant-Man and the Wasp joined forces to become Marvel’s most powerful super team! And when Captain America returned from the frozen depths to battle alongside them, the Avengers truly took form! In this collection of the earliest adventures of Earth’s Mightiest Heroes",
+        "img": "https://i.ibb.co/YRw56HJ/51g-HK6-XN-L-SX331-BO1-204-203-200.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 10,
+        "name": "Captain America, Vol. 1",
+        "author": "stan lee",
+        "description": "In this inaugural Silver Age Captain America collection Stan Lee and Jack Kirby bring you the rebirth of an American icon in issue after issue of trend-setting Marvel magic. You'll read the classic origins of Cap, Bucky and the Red Skull; see the first appearances of such cornerstone creations as the cosmic cube and the beautiful Sharon Carter; and watch Cap face off against Baron Zemo's Army of Assassins, the Sleepers, Batroc the Leaper, and his Nazi nemesis the Red Skull!",
+        "img": "https://i.ibb.co/hyC2Y3z/512-Sef-WYb-FL-SX347-BO1-204-203-200.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 11,
+        "name": "The Coming of Galactus!",
+        "author": "stan lee",
+        "description": "After wrapping up the Inhumans story of the previous issue, the story moves to the Silver Surfer as he soars through the Andromeda Galaxy, earning the attention of the Skrulls. Terrified, the Skrulls do everything they can to conceal their world from the Surfer's perceptions, explaining to an inexperienced Skrull that wherever the Silver Surfer appears, his master, Galactus, cannot be far behind.Back on Earth, the Fantastic Four witness the entire skyline appearing to be engulfed in flame. At the Baxter Building, Reed sequesters himself inside his laboratory to analyze the situation. The flames in the sky dissipate, giving way to an unending field of space debris.",
+        "img": "https://i.ibb.co/KK4k4t8/Fantastic-Four-48.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 12,
+        "name": "Morbius: The Living Vampire #1",
+        "author": "stan lee",
+        "description": "The story opens in Manhattan, where Morbius has feed on another helpless victim. Though at first satisfied of his thirst, he is later digusted at his actions. While this is happening, across town Lilth, Blackout, and Pilgrim arrive at the goth club known as the Limelight to recruit two other Lilin known as Fang and Nakota. Down in Time Square, Ghost Rider and Blaze seek Martine Bancroft who is at this time looking for her ex-love Morbius. She says she found a doctor that cure him. Little does she know, but Doctor Langford is actually trying to kill Morbius.",
+        "img": "https://i.ibb.co/PWjknmz/32421-4798-36155-1-morbius-the-living.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 13,
+        "name": "Marvel-Verse: She-Hulk",
+        "author": "stan lee",
+        "description": "She may have started out Savage, but there’s no doubt that She-Hulk is the most Sensational hero in all the Marvel-Verse — and these are the adventures that prove it! Discover how a life-saving blood transfusion from her cousin, Bruce Banner, led to a green-skinned transformation for lawyer Jennifer Walters! As the emerald attorney interviews for a new law firm, Jen meets the legendary Blonde Phantom! While She-Hulk takes on the Mutant Registration Act in court, her arch-foe Titania causes serious disorder! But Jen’s most important case of all comes when she is accused of crimes against the time-space continuum — and if found guilty, the sentence is complete erasure from reality! Plus, a night at the museum…with Spider-Man!",
+        "img": "https://i.ibb.co/TgN3s0B/51kp5hnw-Ve-S-SX331-BO1-204-203-200.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 14,
+        "name": "Fantastic Four Epic Collection: Battle of the Behemoths",
+        "author": "stan lee",
+        "description": "Only an artist as immortal as John Buscema could fill Jack King Kirby’s Galactus-sized shoes on Fantastic Four! Big John joins Stan the Man on a timeless run in this collection of FF from the early ’70s: Johnny Storm and Crystal develop their romance, while Ben Grimm learns to change into Thing at will; Reed Richards takes on Annihilus and Janus in the Negative Zone, and none other than Doctor Doom teams up with the FF to face the awesome threat of the Over-Mind! Plus: Gabriel the Air-Walker debut as Galactus’ new herald, and he’s arrived on Earth to force the Silver Surfer to submit to the Big G’s will—or the Earth dies! All this plus the return of the Monster from the Lost Lagoon!",
+        "img": "https://i.ibb.co/JypD87d/51y9wm-CBy0-L-SX317-BO1-204-203-200.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 15,
+        "name": "Marvel-Verse: Doctor Strange",
+        "author": "stan lee",
+        "description": "The Sorcerer Supreme of the Marvel-Verse — in some of his most magical adventures! Discover how renowned surgeon Stephen Strange’s search for a cure for his damaged hands led him instead into a world of magic and mystery! Join him in a mind-bending interdimensional battle with the Dread Dormammu, as only Stan Lee and Steve Ditko could present it! A sorrowful Doctor Strange tackles the demonic D’Spayre — and learns what life would have been like if he never mastered the mystic arts! The villainous Nicodemus sets his sights on Strange’s soul! And, when a cosmically powered creature wreaks havoc, can Spider-Man help Doctor Strange web up the holes in the fabric of reality?",
+        "img": "https://i.ibb.co/BTFJtBG/511-DRNIl-Xi-L-SX331-BO1-204-203-200.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 16,
+        "name": "Iron Man Masterworks Vol. 2",
+        "author": "stan lee",
+        "description": "See the return of Iron Man's arch-nemesis, the Mandarin, and said vile villain's origin. Then, witness the first appearance of the Avenger-to-be Hawkeye ? but he's teamed up with Black Widow against Iron Man! Plus, Iron Man must test his mettle against no less than Captain America and his own Iron Man armor.",
+        "img": "https://i.ibb.co/HNZSDDm/51iu-Gp-TPq-YL.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 17,
+        "name": "Amazing Spider-Man Epic Collection: Lifetheft (Amazing Spider-Man, 26) ",
+        "author": "stan lee",
+        "description": "The truth about Peter Parker’s parents revealed! Mary and Richard, long presumed dead, returned home months ago alive and well — but Aunt May still has suspicions, and this family reunion is destined to be anything but happy! But first, Spider-Man must survive a showdown with an angrier than ever Hulk — and Venom’s sparring partners the Jury will serve their verdict on Spidey! But when the Vulture gains a new lease on life at Peter’s expense, it sets in motion a chain of events that will rock the wallcrawler’s world! An enraged Spider-Man vents his fury on the Chameleon, Shriek and Carrion — but can Peter Parker claw his way back from the brink of madness?",
+        "img": "https://i.ibb.co/ZSc3n3R/51nmk-UHz-XDL-SX323-BO1-204-203-200.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 18,
+        "name": "Captain America Omnibus, Vol. 1 (Marvel Omnibus: Captain America)",
+        "author": "stan lee",
+        "description": "As America began preparation for the inevitable entry into World War II, a secret military project gave birth to the greatest one-man fighting force ever known: Captain America! Transformed by the Super-Soldier Serum from a 97-pound weakling into the Star-Spangled Avenger, Steve Rogers led the charge to liberate the world from the Axis Powers' grasp. But before the war's end, an accident left Cap frozen in suspended animation and his sidekick Bucky seemingly dead, while the world turned on for decades.",
+        "img": "https://i.ibb.co/Zg25wZg/61vhr-EC6-Yy-L-SX332-BO1-204-203-200.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 19,
+        "name": "Thor: Tales of Asgard",
+        "author": "stan lee",
+        "description": "Never has Thor been more sensational than during these early tales, crafted by Marvel's greatest, Stan Lee and Jack Kirby. Re-live Stan and Jack's stories of the Norse Gods and Thor before he came to Earth as Don Blake. Witness as these masters breathe life into the thunder god. Read these stories as never before with all-new, modern coloring and six interlocking covers by Olivier Coipel.",
+        "img": "https://i.ibb.co/8bF3V8T/615m-K5nv5-SL-SX320-BO1-204-203-200.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 20,
+        "name": "Iron Man Masterworks Vol. 1",
+        "author": "stan lee",
+        "description": "Collects Tales of Suspense #39-50. Inventor, businessman, playboy... SUPER HERO! Gravely injured in combat, billionaire genius Tony Stark saved his own life by designing a life-sustaining shell - the high-tech protective covering that transformed him into the invincible Iron Man! Now, the world believes him to be Tony Stark's personal bodyguard. In this dual role, he faces both boardroom intrigue and super-powered menaces. A modern-day knight in shining armor, he fights injustice wherever it rears its ugly head!",
+        "img": "https://i.ibb.co/J5kTxDz/41-Bc-Cy9-Lgd-L.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 21,
+        "name": "Marvel Masterworks: Ant-Man/Giant-Man Vol. 1",
+        "author": "stan lee",
+        "description": "Burned under the magnifying glass of overwhelming demand, Mighty Marvel has given in to bring you our smallest hero in his first big Masterwork! Scientist Hank Pym invented an amazing growth serum and a cybernetic helmet, making him the Astonishing Ant-Man! Teamed with the winsome Wasp, the tiny twosome battle a sensational array of mini- and maxi-sized menaces from the Scarlet Beetle to the Black Knight! And if that’s not enough to occupy a man of science, he’s also defending the good ol’ U.S. of A.’s secrets from the Commie hordes! But we’ve got more than just miniature mayhem for you, false Believer — you can also look forward to the birth of the biggest Avenger there ever was: Giant-Man!",
+        "img": "https://i.ibb.co/B2jtJ04/51-YTPh-DCVBL.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 22,
+        "name": "Fantastic Four Masterworks Vol. 4",
+        "author": "stan lee",
+        "description": "With classic foes like the Mole Man, the Invincible Man (hint: he's really Doctor Doom!), Atuma, Mr. Gideon, Dragon Man and the Frightful Four! Including the life and death of Franklin Storm, father of Johnny and Sue! Guest-starring Namor, Daredevil and Medusa of the Inhumans! With all the fights, frustrations and financial troubles that make up the world's most fantastic family! And, for the first time ever, the origin of Doctor Doom!",
+        "img": "https://i.ibb.co/Fq4qGpQ/51-NZ77-PTGOL.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 23,
+        "name": "Daredevil Masterworks Vol. 3",
+        "author": "stan lee",
+        "description": "Hold on to your hats as Ol' Hornhead goes toe-to-toe with the Tri-Man and Gladiator, laughs it up at Leap Frog, sticks it to Stilt Man and then marches through a marathon of the Masked Marauder, Mr. Hyde and Cobra! And just when you thought we'd cut him a break, all the baddies go union as Electro's Emissaries of Evil!",
+        "img": "https://i.ibb.co/8xghg4Q/51fx2qh-Bs6-L.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 24,
+        "name": "Captain America Masterworks Vol. 2",
+        "author": "stan lee",
+        "description": "Strap on your shield, and prepare for a barrage of Stan and Jack's best! It's page after page of Captain America classics from the Marvel Masterworks! Take a front-row seat as Cap goes head-to-head with the likes of the Super-Adaptoid, the robotic creation with the combined powers of the entire Avengers; cast your vote in the court of public opinion when the Red Skull attempts to convince the people of America that Cap's turned traitor; and meet the horrendous head of A.I.M. - the one and only M.O.D.O.K.! And as if that wasn't enough, the man who murdered Bucky - Baron Zemo - returns in a saga guest-starring Nick Fury, the Black Panther and Sharon Carter that culminates in the debut of Cap's solo series!",
+        "img": "https://i.ibb.co/MZNM9NG/51b-Eh-TKou7-L.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 25,
+        "name": "X-Men Masterworks Vol. 1",
+        "author": "stan lee",
+        "description": "Collects Uncanny X-Men (1963) #1-10. See the X-Men from the very beginning with the debut of Cyclops, Angel, Beast, Iceman and Marvel Girl, Professor X's teen team with a mission of peace and brotherhood for man and mutant, in their first battle with the Master of Magnetism, Magneto. Written by Stan The Man Lee and illustrated by Jack King Kirby, it's super-hero adventure at its very best!",
+        "img": "https://i.ibb.co/zhXjpn8/51et-X6za-Yv-L.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 26,
+        "name": "Thor Masterworks Vol. 4",
+        "author": "stan lee",
+        "description": "Prepare yourself for an amazing assemblage of Asgardian classics as only Stan and Jack could make them. Featuring the one and only Thor, it kicks off with a blockbuster battle with the Absorbing Man! Then in Outer Mongolia, a demon powered by a mystic Norn stone awakens. Thor may be able to handle this magical menace, but how will he fare in a toe-to-toe tussle with Hercules - especially when Odin has cut the Thunder God's power in half? It all leads to an epic adventure that takes Thor and Hercules into the depths of the Underworld to fight the legions of Pluto. And lest we forget, Tales of Asgard backs up every issue - revealing the secrets of Ragnarok and more!",
+        "img": "https://i.ibb.co/jG7JJsq/51-S9-Vxlggi-L.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 27,
+        "name": "Atlas Era Tales To Astonish Masterworks Vol. 1",
+        "author": "stan lee",
+        "description": "The Marvel Masterworks have brought you stories from the Marvel Age's super-hero heyday and comic books' Golden Age. Now, prepare yourself for the Atlas Era! Throughout the 1950s the comics world sat astride the shoulders of Atlas - a world full of gun-fighting outlaws, romantic heartbreak, gritty battlefields, terrifying horror and visionary science fiction. In TALES TO ASTONISH, we take you back to the days when giant atomic monsters roamed the Earth and alien invasions were a daily occurrence. Stan Lee, Jack Kirby, Steve Ditko and a host of top talents introduce you to the Ninth Wonder of the World, the Things on Easter Island, Mummex the King of the Mummies and more. Prepared to be astonished!",
+        "img": "https://i.ibb.co/D8PT8dj/51v-T2uv-Nn-TL.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 28,
+        "name": "Mighty Marvel Masterworks: The Amazing Spider-Man Vol. 1: With Great Power…",
+        "author": "stan lee",
+        "description": "When young Peter Parker gains remarkable abilities from a radioactive spider, he must step up and try to become a hero — while also dealing with the fantastic pressures of an everyday teenager! For with great power, there must also come great responsibility! Enjoy these stories of spectacular web-slinging adventure from Spidey’s very beginning — including the tragic origin that started it all; the first appearances of the Daily Bugle, J. Jonah Jameson, Doctor Octopus, the Sandman, the Vulture and Electro and guest-star nods from the Fantastic Four and Human Torch! Relive the foundation of every amazing arachnid adventure that followed!",
+        "img": "https://i.ibb.co/PcR4kLf/51ty4camb-YS.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 29,
+        "name": "Black Widow: Beware The Black Widow",
+        "author": "stan lee",
+        "description": "Collecting the origins of the Black Widow for the very first time! From her debut as a Russian spy in TALES OF SUSPENSE, Natasha Romanoff was instantly one of Marvel’s most iconic characters. This amazing collection takes you through her early days with Hawkeye, into her first adventures with the Avengers – and on to her first solo series! Thrill to a captivating and complex saga as the Black Widow evolves from villain to hero — and defines herself as one of comics’ greatest characters. Boasting stories and art by a who’s who of Silver Age greats, this Epic Collection is ground zero for every Black Widow fan!",
+        "img": "https://i.ibb.co/HGhwGY1/51m4-Hvh6ob-L.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }, {
+        "id": 30,
+        "name": "Hawkeye: The Avenging Archer",
+        "author": "stan lee",
+        "description": "Earth’s Mightiest Marksman! Follow Hawkeye’s career from his debut to his first solo adventure and beyond! Though Clint Barton debuted as a foe of Iron Man and a love interest to the deadly Black Widow, the sharpshooter soon reformed and joined the Avengers, becoming a force for good — and a thorn in Captain America’s side! Now learn Hawkeye’s hidden history, thrill to his size-changing stint as Goliath and unforgettable team-ups with Spider-Man and Ant-Man, witness his battles with the bizarre Death-Throws and more! Plus: the heroic career of Hawkeye’s bride-to-be, Mockingbird!",
+        "img": "https://i.ibb.co/0V4h5Q6/51-WDMBD7q-NL.jpg",
+        "readding": "false",
+        "completed": "false",
+        "note":"",
+        "rating":"0"
+    }]
+}

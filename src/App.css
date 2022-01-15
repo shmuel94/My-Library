@@ -1,0 +1,129 @@
+.App {
+  text-align: center;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+button {
+  font-size: calc(10px + 2vmin);
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+body{
+  /* https://i.ibb.co/3TpM9kx/576321-marvel-wallpaper.jpg */
+  
+  background: url("https://i.ibb.co/gMq2wH6/marvel-comics-wallpaper-preview.jpg")  no-repeat center center fixed;
+  
+  background-size:cover;
+  margin:0;
+  padding: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#container {
+  width: 90vw;
+  margin: 0 auto;
+  max-width: 1170px;
+  font-size: 13px;
+  font-weight:600;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  display: grid;
+  justify-content: space-evenly;
+  grid-template-columns: repeat(auto-fit,minmax(260px,1fr));
+  grid-column-gap: 1.5rem;
+  grid-row-gap: 2rem;
+}
+
+#log{
+  background-color: rgba(255, 255, 255, 0.4);
+  width: 150px;
+  margin: 0 auto;
+}
+
+#reg{
+  background-color: rgba(255, 255, 255, 0.4);
+  width: 150px;
+  margin: 0 auto;
+}
+
+form{
+  background-color: rgba(255, 255, 255, 0.4);
+  width: 180px;
+  margin: 0 auto;
+}
+
+form:hover{
+  box-shadow: 20px 20px 20px rgb(163, 44, 44);
+}
+
+#container > div {
+  background-color: rgba(255, 255, 255, 0.4);
+  border: 1px solid transparent;
+  margin: 2px;
+  text-align: center;
+  font-size: 18px;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+#container > div:hover {
+  background-color: rgba(255, 255, 255, 0.6);
+  box-shadow: 20px 20px 20px rgb(163, 44, 44);
+}
+
+
+#home{
+  text-decoration: none;
+  color: white;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+#completed{
+  text-decoration: none;
+  color: white;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+#reading{
+  text-decoration: none;
+  color: white;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+#search{
+  text-decoration: none;
+  color: white;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+#register{
+  text-decoration: none;
+  color: white;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+#login{
+  text-decoration: none;
+  color: white;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+
+#hide{
+  white-space:nowrap; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+  border: 1px solid #000000;
+}
+
+textarea{
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+input[type="radio"]{
+  display: none;
+}
+
+.star{
+  cursor: pointer;
+  transition: color 200ms;
+}
