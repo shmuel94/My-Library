@@ -61,6 +61,14 @@ export default function Register ({auth , setAuth, AUTH_LOCAL_STORAGE }) {
           placeholder='enter password'
         />
         <br />
+        <input
+          onChange={e => {
+            setPassword(e.target.value), setDisable(isValid())
+          }}
+          type='password'
+          placeholder='confirm password'
+        />
+        <br />
         {error ? (
           <h4><iframe style={{backgroundColor: "rgba(255, 255, 255, 0.4)"}} src="https://giphy.com/embed/93LTXywyTGaYUWy9tJ" width="150" height="130" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/fail-spiderman-spider-man-93LTXywyTGaYUWy9tJ"></a></p></h4>
         ) : (
