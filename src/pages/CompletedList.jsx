@@ -13,7 +13,7 @@ export default function CompletedList ({
 }) {
 
   const temp = [...data]
-   function makeFalse (i) {
+   function removeFromComleted (i) {
     temp[i].completed = 'false'
     setData(temp)
   }
@@ -46,7 +46,7 @@ export default function CompletedList ({
             <p id='hide'>{book.description}</p>
             <button
               onClick={() => {
-                makeFalse(i)
+                removeFromComleted(i)
               }}
             >
               <img src="https://img.icons8.com/ios/22/000000/xbox-x.png"/>

@@ -4,7 +4,7 @@ import { Redirect } from 'react-router-dom'
 export default function ReadingList ({auth,data ,setData,redirect,setRedirect,setDetails }) {
   let temp = [...data];
 
-  function makeTrue(i) {
+  function addToCompleted(i) {
   temp[i].completed="true";
   temp[i].readding="false";
   setData(temp)
@@ -18,7 +18,7 @@ export default function ReadingList ({auth,data ,setData,redirect,setRedirect,se
     return <Redirect to= "/Details"/>
   }
 
-  function makeFalse(i) {
+  function removeFromReading(i) {
     temp[i].readding="false";
     setData(temp)
   }
@@ -32,10 +32,10 @@ export default function ReadingList ({auth,data ,setData,redirect,setRedirect,se
           <p>{book.author}</p>
           <p id="hide">{book.description}</p>
           <button onClick={()=>{
-            makeTrue(i)
+            addToCompleted(i)
           }} ><img src="https://img.icons8.com/material-outlined/24/000000/add.png"/> <img src="https://img.icons8.com/plasticine/50/000000/black-panther--v2.png"/></button>
           <button onClick={()=>{
-            makeFalse(i)
+            removeFromReading(i)
           }}> <img src="https://img.icons8.com/ios/26/000000/xbox-x.png"/> <img src="https://img.icons8.com/plasticine/50/000000/black-panther--v1.png"/></button>
           </div>
         </div>
